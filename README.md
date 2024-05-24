@@ -1,10 +1,14 @@
-# MyStudyApp
+# Fairhouse - Study Project on Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7 following the [Angular](https://angular.io/quick-start#create-a-new-angular-app-from-the-command-line) instruction.
+
+A housing app Fairhouse was built following the [Introduction to Angular](https://codelabs.developers.google.com/introduction-to-angular#0) codelab. The completed app allows users to view home listings based on their search and view details of a housing location.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+Alternatively, you can run a dev server with the `npm start` command.
 
 ## Code scaffolding
 
